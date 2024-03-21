@@ -1,3 +1,4 @@
+javascript:
 var style = document.createElement("style");
 document.body.appendChild(style);
 
